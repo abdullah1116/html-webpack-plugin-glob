@@ -1,0 +1,20 @@
+{
+  "name": "html-webpack-plugin-glob",
+  "version": "1.0.0",
+  "description": "loading multiple html files HtmlWebpackPlugin using glob pattern",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "HtmlWebpackPlugin",
+    "html-webpack-plugin",
+    "HtmlWebpackPluginGlob",
+    "html-webpack-plugin-glob"
+  ],
+  "author": "abdullah1116",
+  "license": "ISC",
+  "repository": "https://github.com/abdullah1116/html-webpack-plugin-glob",
+  "dependencies": {
+    "glob": "^7.2.0",
+    "html-webpack-plugin": "^5.5.0"
+  }
+}
