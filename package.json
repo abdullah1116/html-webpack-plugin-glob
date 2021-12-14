@@ -1,6 +1,6 @@
 {
   "name": "html-webpack-plugin-glob",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "loading multiple html files HtmlWebpackPlugin using glob pattern",
   "main": "index.js",
   "scripts": {},
